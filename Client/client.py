@@ -1,6 +1,6 @@
 """
 Student : Naftali Davidov
-ID      : 315188342
+
 ver     : 19/01/2025 
 
 this is a client class and the main program 
