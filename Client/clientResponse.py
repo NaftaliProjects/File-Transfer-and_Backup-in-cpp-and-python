@@ -1,6 +1,6 @@
 """
 Student : Naftali Davidov
-ID      : 315188342
+
 ver     : 19/01/2025 
 
 clientRsponse module consist of the Rsponse class that hold the Rsponse protocol header
