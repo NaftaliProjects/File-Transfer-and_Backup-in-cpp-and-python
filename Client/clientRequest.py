@@ -1,6 +1,6 @@
 """
 Student : Naftali Davidov
-ID      : 315188342
+
 ver     : 19/01/2025 
 
 clientRequest module consist of the Request class that hold the request protocol header
